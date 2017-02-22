@@ -17,7 +17,8 @@
     "jsonwebtoken":"*",
     "body-parser":"*",
     "passport":"*",
-    "passport-jwt":"*"
+    "passport-jwt":"*",
+    "nodemon":"*",
   },
   "author": "Usman",
   "license": "ISC"
